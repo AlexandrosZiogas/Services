@@ -1,5 +1,5 @@
 # Services
-
+Program that emulates a Computer Service Store using SQL & C#
 **Screenshots**
 
 ![C#](https://i.imgur.com/fjZ2nYE.png)
